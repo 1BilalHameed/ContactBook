@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactBook</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="_03242426724">03242426724</string>
+    <string name="done">DONE</string>
+</resources>
